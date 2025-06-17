@@ -3,20 +3,20 @@ This project aims to analyze and predict agricultural crop production trends in 
 
 The dataset, sourced from data.gov.in, includes key agricultural indicators such as:
 
-Crop and variety
-Cultivation state and recommended zone
-Cost of cultivation and production
-Yield per hectare
+Crop and variety,
+Cultivation state and recommended zone,
+Cost of cultivation and production,
+Yield per hectare,
 
 This project helps in understanding crop performance patterns across states and supports better planning in agriculture by offering data-driven insights.
 Key Features:
-Data preprocessing & cleaning
-One-hot encoding of categorical variables
-Model training using Random Forest Regressor
-Evaluation with MSE and R² metrics
-Visualization of predicted vs. actual crop yields
+Data preprocessing & cleaning,
+One-hot encoding of categorical variables,
+Model training using Random Forest Regressor,
+Evaluation with MSE and R² metrics,
+Visualization of predicted vs. actual crop yields,
 
 Technologies Used:
 Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)
-Jupyter Notebook
+Jupyter Notebook,
 Machine Learning (Regression)
